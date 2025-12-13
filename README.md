@@ -1,1 +1,1 @@
-My ever growing Neovim 
+My ever growing Neovim. I use LazyVim.
